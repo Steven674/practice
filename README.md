@@ -1,3 +1,25 @@
+Link to Heroku: https://mysterious-river-00331.herokuapp.com/
+
+#Postgres, Frontend, Backend
+---
+-**Week 1** Heroku, Flask, AWS planned as tech stack.  Backend/compling tasked to Bulti and Application tasked to Talis.  GitHub repo set up, CSS/Scripts uploaded, initial heroku url pushed.
+
+-**Week 2** Project scope evaluated, and jupyter notebook connected to Flask app
+
+-**Week 3** Moved away from the idea of using AWS.  Routes written and uploaded to GitHub.
+
+-**Week 4** D3 set up.
+
+-**Week 5** img2txt_db created in PostgreSQL database which includes three tables username, list of condos and list of photos. Once created, 5,276 lists of condos were imported using pandas read csv, photo features generated from the model were also imported using pandas csv import function. Username are stored once the user registered to the platform.
+<img src="https://github.com/TREXKS/Image-to-Text/blob/master/Process%20Book%20Images/condos%20table.png" title="Formatted Condo Data">
+List of variables in the phonos table
+<img src="https://github.com/TREXKS/Image-to-Text/blob/master/Process%20Book%20Images/variables%20in%20phonos%20table.png" title="List of variables in the phonos table">
+
+-**Week 6**Once the database and tables were created, the configuration was added to app.py to link the database & tables with front-end where the results of the search are displayed.
+
+-**Week 7** Frontend, backend, and model all connected.  Flavor text changed, errors fixed with logins and image uploading.  Completing process of pushing all code to heroku.
+
+
 #Data and Model
 ---
 
